@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1032214472395",
+    "project_id": "rare-crew-test-dev",
+    "storage_bucket": "rare-crew-test-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032214472395:android:2ae4c3f6134c88caa01d4e",
+        "android_client_info": {
+          "package_name": "com.rarecrew.test.rare_crew_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASLf_JGSCb-rBSNS3CqPzZ27en-KM-xMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
